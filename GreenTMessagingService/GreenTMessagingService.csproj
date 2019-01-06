@@ -39,6 +39,8 @@
     <Compile Include="Interfaces\IGreenTMessagingService.cs" />
     <Compile Include="Services\GreenTMessagingService.cs" />
     <Compile Include="Services\GreenTAlert.cs" />
+    <Compile Include="Services\GreenTQuestion.cs" />
+    <Compile Include="Services\GreenTChoice.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
